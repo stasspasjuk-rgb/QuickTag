@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/quicktag-avatar.png" alt="QuickTag — скрытие ников" width="192" height="192">
+</p>
+
 # QuickTag 1.0.0
 
 [![Java 25](https://img.shields.io/badge/Java-25-orange)](https://docs.papermc.io/paper/getting-started/)
