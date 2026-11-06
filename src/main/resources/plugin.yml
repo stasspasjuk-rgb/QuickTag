@@ -1,0 +1,13 @@
+name: QuickTag
+version: 1.0.0
+main: io.github.quickproducts.quicktag.QuickTagPlugin
+api-version: '26.2'
+description: Hides player nametags and reveals a name with sneak + right click.
+commands:
+  quicktag:
+    description: QuickTag settings
+    usage: /quicktag reload
+permissions:
+  quicktag.reload:
+    description: Allows reloading QuickTag configuration
+    default: op

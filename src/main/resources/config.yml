@@ -1,0 +1,6 @@
+# MiniMessage format. <nickname> is replaced with the actual account name.
+actionbar: '<yellow>Ник: <white><nickname>'
+messages:
+  reloaded: '<green>QuickTag: конфигурация перезагружена.'
+  no-permission: '<red>У вас нет права quicktag.reload.'
+  usage: '<yellow>Использование: /quicktag reload'
